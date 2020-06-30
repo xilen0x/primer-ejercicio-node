@@ -1,0 +1,22 @@
+{
+  "name": "primer_ejercicio_node",
+  "version": "1.0.0",
+  "description": "Ejercicio de ejemplo node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xilen0x/primer-ejercicio-node.git"
+  },
+  "author": "Carlos Astorga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xilen0x/primer-ejercicio-node/issues"
+  },
+  "homepage": "https://github.com/xilen0x/primer-ejercicio-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
